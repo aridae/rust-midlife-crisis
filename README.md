@@ -30,3 +30,5 @@ https://bfnightly.bracketproductions.com/
 иии еще туториал https://heroiclabs.com/blog/tutorials/rust-fishgame/
 
 вот в этой хрени советуют делать карты https://www.mapeditor.org/ 
+
+это беви, вот беви https://bevyengine.org/learn/book/introduction/
