@@ -39,3 +39,5 @@ https://bfnightly.bracketproductions.com/
 
 это для спрайтов https://www.piskelapp.com/ 
 
+https://rustrepo.com/repo/jeremychone-channel-rust-invaders-rust-game-development 
+
