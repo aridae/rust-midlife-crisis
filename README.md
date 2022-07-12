@@ -37,3 +37,5 @@ https://bfnightly.bracketproductions.com/
 
 аа что за прелесть https://itch.io/game-assets/free/tag-pixel-art/tag-tiles 
 
+это для спрайтов https://www.piskelapp.com/ 
+
