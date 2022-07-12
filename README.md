@@ -34,3 +34,6 @@ https://bfnightly.bracketproductions.com/
 это беви, вот беви https://bevyengine.org/learn/book/introduction/
 
 у этих геймеров блять свой язык https://docs.idew.org/video-game/project-references/phaser-coding/tweens#:~:text=A%20tween%20changes%20a%20game,a%20specified%20amount%20of%20time.
+
+аа что за прелесть https://itch.io/game-assets/free/tag-pixel-art/tag-tiles 
+
