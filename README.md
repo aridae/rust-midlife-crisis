@@ -24,3 +24,5 @@ https://bfnightly.bracketproductions.com/
 Прикольная игра на расте можно повторить https://github.com/fishfight/FishFight
 
 Даже туториал какой-то прикольный https://heroiclabs.com/blog/tutorials/rust-fishgame/
+
+Тоже прикольная игра, мне нравится механика https://www.coromon.com/
