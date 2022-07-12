@@ -32,3 +32,5 @@ https://bfnightly.bracketproductions.com/
 вот в этой хрени советуют делать карты https://www.mapeditor.org/ 
 
 это беви, вот беви https://bevyengine.org/learn/book/introduction/
+
+у этих геймеров блять свой язык https://docs.idew.org/video-game/project-references/phaser-coding/tweens#:~:text=A%20tween%20changes%20a%20game,a%20specified%20amount%20of%20time.
