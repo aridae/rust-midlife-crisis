@@ -8,5 +8,9 @@ I fukin wanna kms please help me
 
 Tell me whats so good about this so called life 
 
-Вот туториалы 
-https://github.com/faiface/pixel#requirements
+
+Короче мой психиатр говорит, что мне нужно творчество 
+
+Так что вот какая-то книжка по геймдеву на расте 
+
+https://bfnightly.bracketproductions.com/
