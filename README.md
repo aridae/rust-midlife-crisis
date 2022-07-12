@@ -14,3 +14,9 @@ Tell me whats so good about this so called life
 Так что вот какая-то книжка по геймдеву на расте 
 
 https://bfnightly.bracketproductions.com/
+
+в частности, полезные карго команды https://bfnightly.bracketproductions.com/chapter_1.html#useful-cargo-commands
+
+книжка вот от этих ребят - развивают геймдев на расте на основе нон профит https://github.com/amethyst хорошие ребята добрые
+
+что такое ECS классная статейка https://habr.com/ru/company/mygames/blog/590953/

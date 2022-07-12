@@ -6,3 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rltk = { version = "0.8.0" } # растовый тулкит для рогаликов
+specs = "0.16.1"             # https://docs.rs/specs/latest/specs/
+specs-derive = "0.4.1"
