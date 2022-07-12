@@ -41,3 +41,4 @@ https://bfnightly.bracketproductions.com/
 
 https://rustrepo.com/repo/jeremychone-channel-rust-invaders-rust-game-development 
 
+еще какие-то туториалы https://www.youtube.com/watch?v=WnUzWuaMzuM&list=PLT_D88-MTFOPPl75g4WshL1Gx2bnGTUkz&index=1
