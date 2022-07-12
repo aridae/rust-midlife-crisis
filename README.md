@@ -28,3 +28,5 @@ https://bfnightly.bracketproductions.com/
 Тоже прикольная игра, мне нравится механика https://www.coromon.com/
 
 иии еще туториал https://heroiclabs.com/blog/tutorials/rust-fishgame/
+
+вот в этой хрени советуют делать карты https://www.mapeditor.org/ 
