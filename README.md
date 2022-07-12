@@ -26,3 +26,5 @@ https://bfnightly.bracketproductions.com/
 Даже туториал какой-то прикольный https://heroiclabs.com/blog/tutorials/rust-fishgame/
 
 Тоже прикольная игра, мне нравится механика https://www.coromon.com/
+
+иии еще туториал https://heroiclabs.com/blog/tutorials/rust-fishgame/
