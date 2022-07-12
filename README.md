@@ -20,3 +20,5 @@ https://bfnightly.bracketproductions.com/
 книжка вот от этих ребят - развивают геймдев на расте на основе нон профит https://github.com/amethyst хорошие ребята добрые
 
 что такое ECS классная статейка https://habr.com/ru/company/mygames/blog/590953/
+
+Прикольная игра на расте можно повторить https://github.com/fishfight/FishFight
