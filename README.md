@@ -22,3 +22,5 @@ https://bfnightly.bracketproductions.com/
 что такое ECS классная статейка https://habr.com/ru/company/mygames/blog/590953/
 
 Прикольная игра на расте можно повторить https://github.com/fishfight/FishFight
+
+Даже туториал какой-то прикольный https://heroiclabs.com/blog/tutorials/rust-fishgame/
